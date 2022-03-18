@@ -28,3 +28,11 @@ For dry_run with file
 ./user_upload.php  -u=[MYSQL username] -p=[MYSQL password] -h=[MYSQL host] --file=[filename.extension] --dry_run
 Example:
 ./user_upload.php -u=root -p=root -h=localhost --file=users.csv --dry_run
+
+For Foobar
+
+Please give executable permission for file by
+chmod 755 foobar.php
+
+Run the file by
+./foobar.php
